@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Color Changer</string>
+    <string name="button_one">Red</string>
+    <string name="button_two">Green</string>
+    <string name="button_three">Blue</string>
+    <string name="button_background">Change background color</string>
+
+</resources>
